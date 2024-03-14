@@ -29,7 +29,7 @@ while True:
     screen.blit(bgimg, (0, 0))
 
     # 绘制其他游戏元素，比如棋子、骰子等
-  import random
+import random
 
 # 初始化骰子
 def roll_dice():
